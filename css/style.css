@@ -61,3 +61,10 @@ header {
   margin: 0 20px;
   float: left;
 }
+
+/* Footer */
+footer {
+  background-color: #8801fe;
+  min-height: 80px;
+  margin: 10px 0;
+}
