@@ -19,8 +19,14 @@ header {
 }
 
 /* Main */
-.placeholder-first {
+.placeholder-img {
   background-color: #e1d67a;
   min-height: 600px;
   margin: 20px 0;
+}
+
+.placeholder-container {
+  background-color: #0086ff;
+  min-height: 800px;
+  margin-bottom: 5px;
 }
